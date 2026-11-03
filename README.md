@@ -4,6 +4,10 @@ Monthly retainer billing for an agency, on Stripe: subscriptions, a self-serve c
 
 > Clean-room reference implementation written from scratch to show the pattern. It contains no employer or client code or data. A production version of this kind of system is what I run at work; this repo shows how I'd build it.
 
+## Background
+
+I designed and built the production version of this system at New Paltz Marketing: a Stripe-based client billing platform for the agency's retainers. That code belongs to my employer, so this repository is a clean-room rewrite I wrote from scratch to show the same architecture and decisions publicly. No employer or client code or data is included.
+
 ## What's interesting here
 
 | Problem | Approach |
